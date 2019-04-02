@@ -1,3 +1,4 @@
+window 测试
 测试得到1
 wwwwwwwwwwwww
 qqqqqqqqqqqq
